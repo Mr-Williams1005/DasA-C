@@ -3,7 +3,7 @@
 }
 
 #banner {
-    font-size: 90px;
+    font-size: max(50px, 5vw);
     color: khaki;
     text-align: center;
     background-image: url(./pattern.jpeg);
