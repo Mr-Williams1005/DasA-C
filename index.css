@@ -18,8 +18,14 @@ h2 {
     font-weight: bold;
 }
 
-span {
-    color: blue;
+a {
+    color: hsl(240, 100%, 50%);
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: hsl(200, 70%, 70%);
+    color: hsl(240, 100%, 30%);
 }
 
 .brush {
@@ -34,6 +40,6 @@ span {
     background-color: skyblue;
 }
 
-div div {
+.product {
     text-align: center;
 }
